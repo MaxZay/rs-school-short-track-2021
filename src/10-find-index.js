@@ -12,7 +12,6 @@
  *
  */
 function findIndex(array, value) {
-  console.log(array);
   let left = 0;
   let right = array.length - 1;
   let mid = 0;
