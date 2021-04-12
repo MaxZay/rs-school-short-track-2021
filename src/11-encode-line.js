@@ -32,6 +32,4 @@ function encodeLine(str) {
   return result;
 }
 
-console.log(encodeLine('aabbccc'));
-
 module.exports = encodeLine;
